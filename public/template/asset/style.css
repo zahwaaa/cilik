@@ -1,0 +1,57 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(73, 56, 0);
+}
+
+.nav-custom {
+    color: #6a8ad6 !important;
+    font-weight: bold;
+}
+
+.nav-custom:hover {
+    color: #376FED;
+    /* font-weight: bold; */
+}
+
+.search-custom {
+    color: #5c5c5c !important;
+    border-radius: 30px;
+}
+
+.reg-btn-custom {
+    color: #fff !important;
+    border-radius: 30px;
+    background-color: #f5326c !important;
+    border-color: transparent;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif !important;
+}
+
+.cover-custom {
+    background-image: url("write1.webp");
+    background-color: #f6921f;
+    min-height: 400px;
+    border-radius: 40px;
+    /* border: 3px solid #f6921f; */
+    /* color: white!important; */
+}
+
+.content {
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+pre {
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}

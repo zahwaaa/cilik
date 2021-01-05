@@ -1,0 +1,13 @@
+{
+    "name": "Kompetisi",
+    "alias": "kompetisi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kompetisi\\Providers\\KompetisiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
